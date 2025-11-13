@@ -1,0 +1,7 @@
+figs/
+data/
+runs/
+arm_files/
+cat_hdf5.py
+report.md
+report.pdf
